@@ -15,3 +15,5 @@
 7. 7-movethatfile :Moving betty to another directory.
 
 8. 8-firstdelete :Deleting betty file.
+
+9. 9-firstdirdeletion :Deleting my_first_directory.
