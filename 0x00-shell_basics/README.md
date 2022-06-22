@@ -19,3 +19,5 @@
 9. 9-firstdirdeletion :Deleting my_first_directory.
 
 10. 10-back :Change to previous working directory.
+
+11. 11-lists :Script that list all file type in the current, parent and /boot directory and also in long format.
