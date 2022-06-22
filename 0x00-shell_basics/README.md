@@ -10,4 +10,8 @@
 
 5. 5-listfilesdigitonly :Display file in long, user Id group displayed numerically and include all files.
 
-6. 7-movethatfile :Moving betty to another directory.
+6. 6-firstdirectory :Name a new subdirectory.
+
+7. 7-movethatfile :Moving betty to another directory.
+
+8. 8-firstdelete :Deleting betty file.
