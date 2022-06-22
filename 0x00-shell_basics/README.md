@@ -21,3 +21,5 @@
 10. 10-back :Change to previous working directory.
 
 11. 11-lists :Script that list all file type in the current, parent and /boot directory and also in long format.
+
+12. 12-file_type :Script that print file type.
