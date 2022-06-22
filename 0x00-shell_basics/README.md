@@ -9,3 +9,5 @@
 4. 4-listmorefiles :Display all file list"
 
 5. 5-listfilesdigitonly :Display file in long, user Id group displayed numerically and include all files.
+
+6. 7-movethatfile :Moving betty to another directory.
