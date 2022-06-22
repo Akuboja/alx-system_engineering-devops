@@ -17,3 +17,5 @@
 8. 8-firstdelete :Deleting betty file.
 
 9. 9-firstdirdeletion :Deleting my_first_directory.
+
+10. 10-back :Change to previous working directory.
