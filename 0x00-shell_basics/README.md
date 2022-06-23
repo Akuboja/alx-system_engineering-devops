@@ -33,3 +33,5 @@
 16. 101-clean_emacs :Script that remove emacs generated files.
 
 17. 102-tree :Script that create dir in dir.
+
+18. 103-commas :list sorting, dir with / indicator, comma.
