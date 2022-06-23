@@ -29,3 +29,5 @@
 14. 14-copy_html :cp a file.
 
 15. 100-lets_move : mv all file that start with a uppercase"
+
+16. 101-clean_emacs :Script that remove emacs generated files.
