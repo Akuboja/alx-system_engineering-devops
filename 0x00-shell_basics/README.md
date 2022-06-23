@@ -35,3 +35,5 @@
 17. 102-tree :Script that create dir in dir.
 
 18. 103-commas :list sorting, dir with / indicator, comma.
+
+19. :magic file
