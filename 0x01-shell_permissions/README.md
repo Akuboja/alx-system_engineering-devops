@@ -12,3 +12,4 @@
 10. Copy the permission of olleh to hello
 11. Give executable permission to all subdirectories of the current directory for the owner, user group and other users
 12. Creat a dir and set the directory permission
+13. Change group ownership
