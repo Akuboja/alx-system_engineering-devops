@@ -1,3 +1,4 @@
 *Shell permission project*
-1. Change user to betty
-2. Print the effect username of current user
+0. Change user to betty
+1. Print the effect username of current user
+2. Print all the group of current user
