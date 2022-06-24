@@ -9,3 +9,4 @@
 7. Give all user executable permission
 8. Give only other user permission
 9. Give full access to owner, read and execute access to group, and write and execute access to other
+10. Copy the permission of olleh to hello
