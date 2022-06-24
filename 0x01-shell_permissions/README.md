@@ -5,3 +5,5 @@
 3. Give betty ownership of hello file
 4. Create an empty file hello
 5. Give hello file executable permission
+6. Give owner and group owner executable permission and other user read permission
+7. Give all user executable permission
