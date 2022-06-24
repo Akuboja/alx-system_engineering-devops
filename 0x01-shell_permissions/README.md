@@ -14,3 +14,4 @@
 12. Creat a dir and set the directory permission
 13. Change group ownership
 14. Change owner and group owner for all files and directories in the working directories
+15. Change symbolic file owner and owner group
