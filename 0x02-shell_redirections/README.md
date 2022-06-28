@@ -1,3 +1,4 @@
 *Project of Shell project*
 1. Script that print hello world
-2. Script thta print confused emoji
+2. Script that print confused emoji
+3. Script that print the content of a file
