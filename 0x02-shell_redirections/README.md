@@ -14,3 +14,4 @@
 12. Script that display the first 10 files and sorted by the newest file first
 13. Script that take list of words as input and output only duplicate
 14. Script that display line containing the pattern root from a file
+15. Script that display line containing the pattern bin from a fili		
