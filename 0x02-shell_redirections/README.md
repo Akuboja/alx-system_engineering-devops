@@ -11,3 +11,4 @@
 9. Script that duplicate the last line of a file
 10. Script that delete all .js file in current dir and subfolders
 11. Sceipt that count the number of directories - current and parent directories
+12. Script that display the first 10 files and sorted by the newest file first
