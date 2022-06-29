@@ -6,3 +6,4 @@
 4. Script that display last 10 lines
 5. Script that display first 10 lines of a file
 6. Script that display the 3rd line
+7. Script that creat a file name with multiple character
