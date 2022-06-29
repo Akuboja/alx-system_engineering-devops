@@ -10,3 +10,4 @@
 8. Script that create a file with the output of ls -la
 9. Script that duplicate the last line of a file
 10. Script that delete all .js file in current dir and subfolders
+11. Sceipt that count the number of directories - current and parent directories
