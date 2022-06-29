@@ -7,3 +7,4 @@
 5. Script that display first 10 lines of a file
 6. Script that display the 3rd line
 7. Script that creat a file name with multiple character
+8. Script that create a file with the output of ls -la
