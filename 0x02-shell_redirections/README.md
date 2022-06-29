@@ -5,3 +5,4 @@
 3. Script that display the content of 2 files
 4. Script that display last 10 lines
 5. Script that display first 10 lines of a file
+6. Script that display the 3rd line
