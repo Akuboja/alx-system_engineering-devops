@@ -21,4 +21,25 @@
 19. Script that Replace all characters A and c from input to Z and e respectively.
 20. Script that removes all letters c and C from input.
 21. Script that reverse its input.
-22. Script that displays all users and their home directories, sorted by users. 	
+22. Script that displays all users and their home directories, sorted by users.
+23. Script that finds all empty files and directories in the current directory and all sub-directories.
+24. Script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+Hidden files should be listed
+Only regular files (not directories) should be listed
+The names of the files should be displayed without their extensions
+The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
+One file name per line
+The listing should end with a new line
+You are not allowed to use basename, grep, egrep, fgrep or rgrep
+
+25. script that decodes acrostics that use the first letter of each line.
+
+The ‘decoded’ message has to end with a new line
+You are not allowed to use grep, egrep, fgrep or rgrep
+
+26. script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+
+Order by number of requests, most active host or IP at the top
+You are not allowed to use grep, egrep, fgrep or rgrep
+
