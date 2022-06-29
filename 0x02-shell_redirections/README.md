@@ -8,3 +8,4 @@
 6. Script that display the 3rd line
 7. Script that creat a file name with multiple character
 8. Script that create a file with the output of ls -la
+9. Script that duplicate the last line of a file
